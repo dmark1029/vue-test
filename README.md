@@ -40,7 +40,10 @@ Key Features
   2. Database
 
   The backend uses MongoDB to store products and sales data.
-  It parsed the zip file and write data from the csv files to the database.
+  It parses the zip file and write data from the csv files to the database.
+  And a database named test needs to be created first to import data from csv file to the db.
+
+  You can update the data from products.csv and sales.csv in the data.zip file.
 
   1. Clone the repository and install dependencies
 ```sh
