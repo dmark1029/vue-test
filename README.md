@@ -2,8 +2,8 @@
 
 This project includes both a frontend and a backend application to display key sales statistics, trends, and analytics. The frontend is built with Vue 3 and provides interactive visualizations, while the backend is a Node.js + TypeScript server that serves the data via RESTful APIs.
 
-![alt text](image-1.png)
-![alt text](image-2.png)
+![first image](./1.png)
+![second image](./2.png)
 
 ## FrontEnd Setup
 
